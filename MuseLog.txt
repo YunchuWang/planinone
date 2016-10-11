@@ -1,0 +1,39 @@
+Logging in build 2014.0.0.328 started at: Wed May 13 13:31:23 2015
+========================================
+
+==========
+Logging ended at: Wed May 13 13:31:23 2015
+
+Logging in build 2014.0.0.328 started at: Wed May 13 13:32:44 2015
+========================================
+
+==========
+Logging ended at: Wed May 13 13:32:44 2015
+
+Logging in build 2014.0.0.328 started at: Wed May 13 13:33:20 2015
+========================================
+
+==========
+Logging ended at: Wed May 13 13:33:21 2015
+
+Logging in build 2014.0.0.328 started at: Wed May 13 13:33:24 2015
+========================================
+[00:00:19.484] 00:00:00.000 | Quitting Application after 0.3 minutes. Called by: MethodInfo-5710+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+
+==========
+Logging ended at: Wed May 13 13:33:45 2015
+
+Logging in build 2014.0.0.328 started at: Wed May 13 13:33:48 2015
+========================================
+[00:01:10.204] 00:00:00.000 | Quitting Application after 1.1 minutes. Called by: MethodInfo-5710+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+
+==========
+Logging ended at: Wed May 13 13:34:59 2015
+
+Logging in build 2014.0.0.328 started at: Wed May 13 13:35:29 2015
+========================================
+[00:01:15.097] 00:00:00.000 | Quitting Application after 1.2 minutes. Called by: MethodInfo-5710+SiteFacade$/internalCloseAllSitesWithUI+SiteFacade$/attemptCloseAllSitesWithUI+MuseApp/quitWithUI
+
+==========
+Logging ended at: Wed May 13 13:36:46 2015
+
